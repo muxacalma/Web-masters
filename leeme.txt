@@ -1,0 +1,29 @@
+1.- Entorno de escritorio de Github --> Github Desktop
+2.- Entorno de desarrollo de código --> Sublime Text
+3.- Servidor local en tu equipo --> XAMPP
+4.- Aprender HTML Y CSS --> W3SCHOOLS
+
+
+Conceptos de web:
+
+	- Frontend --> lo que se ejecuta en el cliente
+	- Backend --> lo que se ejecuta en el servidor
+
+
+
+Lenguajes de programación web:
+
+	FRONTEND
+
+		- HTML --> Muestra el contenido de las páginas web.
+		- CSS --> Se encarga de los estilos y el aspecto de las páginas web.
+		- Javascript --> Se encarga de darle funcionalidad a la página web.
+
+	BACKEND
+
+		- PHP --> Se encarga de programar la lógica del servidor.
+		- SQL --> Diseño, manejo, construcción, gestión, etc... de bases de datos.
+
+
+
+
